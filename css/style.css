@@ -88,7 +88,7 @@ body{
     width: 25%;
 }
 .ladrilho .medio{
-    background: url(../src/images/1.jpg) center center no-repeat;
+    background: url(src/images/1.jpg) center center no-repeat;
     width: 50%;
     height: 300px;
 }
